@@ -39,6 +39,6 @@
 ### 📬 Контакты
 
 - 📞 +7 (937) 380-47-94  
-- 📧 vasiliy@vppetrov.ru  
+- 📧 Email: vasiliy@vppetrov.ru  
 - 💬 Telegram: [@thunderbasil](https://t.me/thunderbasil)  
 - 💻 GitHub: [github.com/vasiliy-924](https://github.com/vasiliy-924)
