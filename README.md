@@ -22,7 +22,7 @@
 - 🧠 [AI детектор фейковых отзывов](https://github.com/vasiliy-924/ai-fake-reviews-detector)  
 - 🐍 [Игра «Изгиб Питона»](https://github.com/vasiliy-924/the_snake)  
 
-### 🚀 Проекты (in process 🔄)
+### 🧨 Проекты (in process 🔄)
 - 👷‍♂️ [Python скрипты для автоматизации в Autodesk Revit](https://github.com/vasiliy-924/WasArchTools_forRevit)  🔄
 - 🛹 [Веб-приложение для аренды электроскейтбордов](https://github.com/vasiliy-924/SkateGo_web-project)  🔄
 
