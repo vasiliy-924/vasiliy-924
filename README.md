@@ -61,3 +61,5 @@
 - 📧 Email: vasiliy@vppetrov.ru  
 - 💬 Telegram: [@thunderbasil](https://t.me/thunderbasil)  
 - 💻 GitHub: [github.com/vasiliy-924](https://github.com/vasiliy-924)
+- 🪪 Резюме: [github.com/vasiliy-924/Vasiliy Petrov, Junior+ Python Developer.pdf](./Vasiliy%20Petrov%2C%20Junior%2B%20Python%20Developer%2C%20v4%20%281%29.pdf)
+
