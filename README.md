@@ -17,25 +17,18 @@
 ## 🚀 Проекты (done ✅)
 - 🗽 [API для онлайн сервис для сбора отзывов пользователей (был **Тимлидом**)](https://github.com/vasiliy-924/api-yamdb).
     - *Стек:* `Python`, `Django`, `DRF`, `Simple JWT`, `SQLite`, `Pytest`
-
 - 🐈 [CI/CD Деплой сервиса для впечатлений от котиков](https://github.com/vasiliy-924/kittygram_final).
     - *Стек:* `Python`, `Django`, `DRF`, `Docker`, `PostgreSQL`, `Gunicorn`, `Nginx`, `GitHub Actions`
-
 - ✍️ [Блог-платформа с авторизацией и комментариями](https://github.com/vasiliy-924/django-sprint4)
     - *Стек:* `Python`, `Django`, `DRF`, `Docker`, `PostgreSQL`, `Gunicorn`, `Nginx`, `GitHub Actions`
-
 - 📡 [API для онлайн-сервиса](https://github.com/vasiliy-924/api-final-yatube)
     - *Стек:* `Python`, `Django`, `SQLite`, `Bootstrap`
-
 - 🤖 [Бот-ассистент в Телеграмме](https://github.com/vasiliy-924/homework-bot)
     - *Стек:* `Python`, `Telegram Bot API`
-
 - 🧠 [AI детектор фейковых отзывов](https://github.com/vasiliy-924/ai-fake-reviews-detector)
     - *Стек:* `Python`, `Django`, `DRF`, `Docker`, `PostgreSQL`, `Celery`, `Redis`, `NLP / RuBERT`
-
 - 🐍 [Игра «Изгиб Питона»](https://github.com/vasiliy-924/the_snake)
     - *Стек:* `Python`
-
 
 
 ## 🧨 Проекты (in process 🔄)
@@ -47,7 +40,10 @@
 
 ## 🧬 Тестовые задании от компаний
 
-- 🔊 [Сервис для обработки аудио данных через WebSocket](https://github.com/vasiliy-924/test-case_target-ai)
+- 🔊 [Сервис для обработки аудио данных через WebSocket](https://github.com/vasiliy-924/test-case_target-ai). Компания Target.ai
+    - *Стек:* `Python`, `Fast API`, `Redis`, `WebSocket`, `Docker`, `unnitest`
+- 📣 [Сервис анализа отзывов](). Компания UCAR<>TOPDOER
+    - *Стек:* `Python`, `Flask`, `SQLite`
 
 ### 🛠️ Стэк
 
