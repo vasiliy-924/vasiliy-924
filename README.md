@@ -15,6 +15,8 @@
 ---
 
 ## 🚀 Проекты (done ✅)
+- 🍳 [**Foodgram** — сервис публикации рецептов](https://github.com/vasiliy-924/foodgram)
+    - *Стек:* `Python`, `Django`, `DRF`, `Docker`, `PostgreSQL`, `Gunicorn`, `Nginx`, `GitHub Actions`
 - 🗽 [API для онлайн сервис для сбора отзывов пользователей (был **Тимлидом**)](https://github.com/vasiliy-924/api-yamdb).
     - *Стек:* `Python`, `Django`, `DRF`, `Simple JWT`, `SQLite`, `Pytest`
 - 🐈 [CI/CD Деплой сервиса для впечатлений от котиков](https://github.com/vasiliy-924/kittygram_final).
