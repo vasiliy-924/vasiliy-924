@@ -13,6 +13,7 @@
 - Настраиваю веб-серверы, работаю с базами данных  
 
 ---
+---
 
 ## 🚀 Проекты (done ✅)
 ### 🍳[Foodgram — сервис публикации рецептов](https://github.com/vasiliy-924/foodgram)
@@ -50,7 +51,7 @@
 ---
 
 ## 🧨 Проекты (in process 🔄)
-#### 👷‍♂️ [Python скрипты для автоматизации в Autodesk Revit](https://github.com/vasiliy-924/WasArchTools_forRevit)  🔄
+#### 👷‍♂️ Python скрипты для автоматизации в Autodesk Revit (коммерция)  🔄
 Стек: `Python`, `pyRevit`, `Revit`
 
 ##
@@ -71,6 +72,7 @@
 Стек: `Python`, `Flask`, `SQLite`
 
 ---
+---
 
 ### 🛠️ Стэк
 
@@ -78,6 +80,7 @@
 `Nginx`, `ООП`, `Linux`, `AI Coding | Cursor`, `REST API`, `Redis`, `Pytest`,  
 `HTML | CSS`, `Miro | Figma`, `AI Stable Diffusion`, `SQLite`, `Revit | pyRevit | BIM`
 
+---
 ---
 
 ### 📬 Контакты
