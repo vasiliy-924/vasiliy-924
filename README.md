@@ -1,6 +1,6 @@
 ## Hi there, I'm Vasiliy Petrov 👋
 
-### **Я:  Junior+ Python-разработчик,    специализация — Backend (Django / DRF).**  
+### **Я: Python-разработчик,    специализация — Backend (Django / DRF) и BIM.**  
 
 ---
 
