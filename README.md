@@ -64,7 +64,7 @@
 
 ## 🧨 Проекты (in process 🔄)
 #### 👷‍♂️ Python скрипты для автоматизации в Autodesk Revit (коммерция)  🔄
-Стек: `Python`, `pyRevit`, `Revit`
+Стек: `Python/IronPython`, `pyRevit`, `Autodesk Revit API (DB/UI)`, `WPF/XAML`, `Geometry/Spatial вычисления`, `Connector API`
 
 ##
 
