@@ -30,7 +30,9 @@
 Польза: Повысил качество кода и стабильность API в команде, упростил контроль доступа в сервисе.
 Стек: `Python`, `Django`, `DRF`, `Simple JWT`, `SQLite`, `Pytest`
 
-##
+#### 👷‍♂️ Плагин для автоматизации BIM процессов в "Средней" компании  🔄 (занимаюсь сейчас)
+Стек: `Python/IronPython`, `pyRevit`, `Autodesk Revit API (DB/UI)`, `WPF/XAML`, `Geometry/Spatial вычисления`, `Connector API`
+
 
 <details>
 <summary>Показать остальные проекты</summary>
@@ -47,6 +49,9 @@
     Польза: Освоил типичный функционал веб-приложения и базовые паттерны работы с контентом.
     Стек: `Python`, `Django`, `DRF`, `Docker`, `PostgreSQL`, `Gunicorn`, `Nginx`, `GitHub Actions`
 
+- 🛹 [Веб-приложение для аренды электроскейтбордов](https://github.com/vasiliy-924/SkateGo_web-project)  🔄
+    Стек: `Python`, `Django`, `DRF`, `Docker`, `PostgreSQL`, `Gunicorn`, `Nginx`, `React ⚛️`
+
 - 📡 [API для онлайн-сервиса](https://github.com/vasiliy-924/api-final-yatube).
     Стек: `Python`, `Django`, `SQLite`, `Bootstrap`
 
@@ -62,14 +67,6 @@
 
 ---
 
-## 🧨 Проекты (in process 🔄)
-#### 👷‍♂️ Python скрипты для автоматизации в Autodesk Revit (коммерция)  🔄
-Стек: `Python/IronPython`, `pyRevit`, `Autodesk Revit API (DB/UI)`, `WPF/XAML`, `Geometry/Spatial вычисления`, `Connector API`
-
-##
-
-#### 🛹 [Веб-приложение для аренды электроскейтбордов](https://github.com/vasiliy-924/SkateGo_web-project)  🔄
-Стек: `Python`, `Django`, `DRF`, `Docker`, `PostgreSQL`, `Gunicorn`, `Nginx`, `React ⚛️`
 
 ---
 
