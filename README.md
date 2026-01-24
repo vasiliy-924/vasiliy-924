@@ -86,7 +86,7 @@
 
 ### 🛠️ Стэк
 
-`Python`, `Django`, `DRF`, `Flask`, `FastAPI`, `PostgreSQL`, `Git`, `Docker`, `CI/CD`,  
+`Python`, `Go`, `Django`, `DRF`, `Flask`, `FastAPI`, `PostgreSQL`, `Git`, `Docker`, `CI/CD`,  
 `Nginx`, `ООП`, `Linux`, `AI Coding | Cursor`, `REST API`, `Redis`, `Pytest`,  
 `HTML | CSS`, `Miro | Figma`, `AI Stable Diffusion`, `SQLite`, `Revit | pyRevit | BIM`
 
