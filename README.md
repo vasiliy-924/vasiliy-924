@@ -1,6 +1,6 @@
 ## Hi there, I'm Vasiliy Petrov 👋
 
-### **Я: Backend-разработчик (Python / Go).**  
+### **AI Backend Engineer**  
 
 ---
 
