@@ -1,30 +1,30 @@
 ## Hi there, I'm Vasiliy Petrov 👋
 
-### **AI Backend Engineer**  
+### **AI Backend Developer**  
 
 ---
 
-## 🧰 Навыки
+## 🧰 Skills
 
-- Создаю бэкенд на Python и Go.
-- Пишу чистый код, покрываю автотестами  .
-- Создаю и настраиваю API  .
-- Использую Docker и CI/CD для деплоя.
-- Настраиваю веб-серверы, работаю с базами данных. 
-
----
----
-
-### 🛠️ Стэк
-
-`Python`, `Go`, `React`, `Django`, `DRF`, `Flask`, `FastAPI`, `PostgreSQL`, `Git`, `Docker`, `CI/CD`,  
-`Nginx`, `ООП`, `Linux`, `REST API`, `Redis`, `Pytest`,  
-`CSS`, `RAG`, `LLM`, `Revit | pyRevit | BIM`
+- I build backends with Python and Go.
+- I write clean code and cover it with automated tests.
+- I create and configure APIs.
+- I use Docker and CI/CD for deployment.
+- I configure web servers and work with databases.
 
 ---
 ---
 
-### 📬 Контакты
+### 🛠️ Tech Stack
+
+`Python`, `Go`, `React`, `Django`, `DRF`, `FastAPI`, `PostgreSQL`, `Git`, `Docker`, `CI/CD`,  
+`Nginx`, `OOP`, `Linux`, `REST API`, `Redis`, `Pytest`,  
+`CSS`, `RAG`, `LLM`, `Revit | BIM`
+
+---
+---
+
+### 📬 Contacts
 
 - 📞 +7 (937) 380-47-94  
 - 📧 Email: vasiliy924vip@yandex.ru
